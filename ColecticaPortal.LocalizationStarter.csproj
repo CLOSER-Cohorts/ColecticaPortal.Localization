@@ -46,7 +46,13 @@
     <EmbeddedResource Include="Resources\DdiItemStrings.en-US.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Resources\DdiItemStrings.en-GB.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Resources\PortalStrings.en-US.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\PortalStrings.en-GB.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
