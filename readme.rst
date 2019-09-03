@@ -19,10 +19,6 @@ To translate these resources to a new language, follow these steps.
 
 4. To test your localized resources: 
 
-   1. Create a folder inside your Colectica Portal deployment directory. 
-      The folder should have the same name as your language (e.g., ``fr`` for French).
-
-   2. Copy the ``bin\Debug\Colectica.Portal.resources.dll`` file into this 
-      folder.
-
+   1. Create a folder inside your Colectica Portal deployment directory.(en-gb en-US, fr) etc     
+   2. Copy the ``bin\Debug\Colectica.Portal.resources.dll`` file into this folder.
    3. Restart the Colectica Portal application in IIS.
