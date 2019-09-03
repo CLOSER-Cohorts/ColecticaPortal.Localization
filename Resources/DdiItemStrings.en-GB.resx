@@ -246,11 +246,11 @@
     <comment>DDI Content</comment>
   </data>
   <data name="Universe_Singular" xml:space="preserve">
-    <value>Universe</value>
+    <value>Population</value>
     <comment>DDI Content</comment>
   </data>
   <data name="UniverseScheme_Singular" xml:space="preserve">
-    <value>Universe Set</value>
+    <value>Population groups</value>
     <comment>DDI Content</comment>
   </data>
   <data name="Concept_Singular" xml:space="preserve">
@@ -266,7 +266,7 @@
     <comment>DDI Content</comment>
   </data>
   <data name="OrganizationScheme_Singular" xml:space="preserve">
-    <value>Organization Set</value>
+    <value>Organization Groups</value>
     <comment>DDI Content</comment>
   </data>
   <data name="ConceptualComponent_Singular" xml:space="preserve">
@@ -422,11 +422,11 @@
     <comment>DDI Content</comment>
   </data>
   <data name="Universe_Plural" xml:space="preserve">
-    <value>Universes</value>
+    <value>Populations</value>
     <comment>DDI Content</comment>
   </data>
   <data name="UniverseScheme_Plural" xml:space="preserve">
-    <value>Universe Sets</value>
+    <value>Population Groups</value>
     <comment>DDI Content</comment>
   </data>
   <data name="Concept_Plural" xml:space="preserve">
@@ -442,7 +442,7 @@
     <comment>DDI Content</comment>
   </data>
   <data name="OrganizationScheme_Plural" xml:space="preserve">
-    <value>Organization Sets</value>
+    <value>Organization Groups</value>
     <comment>DDI Content</comment>
   </data>
   <data name="ConceptualComponent_Plural" xml:space="preserve">
