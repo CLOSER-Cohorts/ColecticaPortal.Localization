@@ -250,7 +250,7 @@
     <comment>DDI Content</comment>
   </data>
   <data name="UniverseScheme_Singular" xml:space="preserve">
-    <value>Population groups</value>
+    <value>Population</value>
     <comment>DDI Content</comment>
   </data>
   <data name="Concept_Singular" xml:space="preserve">
@@ -262,11 +262,11 @@
     <comment>DDI Content</comment>
   </data>
   <data name="Organization_Singular" xml:space="preserve">
-    <value>Organization</value>
+    <value>Organisation</value>
     <comment>DDI Content</comment>
   </data>
   <data name="OrganizationScheme_Singular" xml:space="preserve">
-    <value>Organizations</value>
+    <value>Organisations</value>
     <comment>DDI Content</comment>
   </data>
   <data name="ConceptualComponent_Singular" xml:space="preserve">
@@ -426,7 +426,7 @@
     <comment>DDI Content</comment>
   </data>
   <data name="UniverseScheme_Plural" xml:space="preserve">
-    <value>Population Groups</value>
+    <value>Study Populations </value>
     <comment>DDI Content</comment>
   </data>
   <data name="Concept_Plural" xml:space="preserve">
@@ -438,11 +438,11 @@
     <comment>DDI Content</comment>
   </data>
   <data name="Organization_Plural" xml:space="preserve">
-    <value>Organizations</value>
+    <value>Organisation Type</value>
     <comment>DDI Content</comment>
   </data>
   <data name="OrganizationScheme_Plural" xml:space="preserve">
-    <value>Organization Groups</value>
+    <value>Organisation Types s</value>
     <comment>DDI Content</comment>
   </data>
   <data name="ConceptualComponent_Plural" xml:space="preserve">
@@ -634,11 +634,11 @@
     <comment>DDI Content</comment>
   </data>
   <data name="UniverseGroup_Singular" xml:space="preserve">
-    <value>Population Group</value>
+    <value>Study Population</value>
     <comment>DDI Content</comment>
   </data>
   <data name="UniverseGroup_Plural" xml:space="preserve">
-    <value>Populations</value>
+    <value>Study Populations</value>
     <comment>DDI Content</comment>
   </data>
   <data name="GeneralInstruction_Singular" xml:space="preserve">
