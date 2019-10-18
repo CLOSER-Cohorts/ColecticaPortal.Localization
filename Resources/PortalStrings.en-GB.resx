@@ -133,13 +133,26 @@
     <value>Create a New List</value>
     <comment>./Views/Basket/Basket.cshtml</comment>
   </data>
+  <data name="File Location" xml:space="preserve">
+    <value>Data Available from</value>
+    <comment>DisplayTemplates\PhysicalInstance.cshtml(</comment>
+  </data>
   <data name="Items you add to your basket will display here." xml:space="preserve">
     <value>Items you add to your list will display here.</value>
     <comment>./Views/Basket/Basket.cshtml</comment>
   </data>
+  <data name="LifeStage" xml:space="preserve">
+    <value>Life Stage</value>
+  </data>
+  <data name="LifeStageDescription" xml:space="preserve">
+    <value>Life Stage Description</value>
+  </data>
   <data name="Rename Basket" xml:space="preserve">
     <value>Rename List</value>
     <comment>./Views/Basket/Basket.cshtml</comment>
+  </data>
+  <data name="Series Description" xml:space="preserve">
+    <value>Study Description</value>
   </data>
   <data name="This basket contains {0} items." xml:space="preserve">
     <value>This list contains {0} items.</value>
@@ -148,5 +161,8 @@
   <data name="This is your active basket." xml:space="preserve">
     <value>This is your active list.</value>
     <comment>./Views/Basket/Basket.cshtml</comment>
+  </data>
+  <data name="Universe" xml:space="preserve">
+    <value>Population</value>
   </data>
 </root>

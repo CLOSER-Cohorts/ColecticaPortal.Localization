@@ -154,7 +154,7 @@
     <comment>DDI Content</comment>
   </data>
   <data name="PhysicalInstance_Singular" xml:space="preserve">
-    <value>Data File</value>
+    <value>Dataset</value>
     <comment>DDI Content</comment>
   </data>
   <data name="RecordRelationship_Singular" xml:space="preserve">
@@ -182,7 +182,7 @@
     <comment>DDI Content</comment>
   </data>
   <data name="Instrument_Singular" xml:space="preserve">
-    <value>Instrument</value>
+    <value>Questionnaire</value>
     <comment>DDI Content</comment>
   </data>
   <data name="CodeList_Singular" xml:space="preserve">
@@ -330,7 +330,7 @@
     <comment>DDI Content</comment>
   </data>
   <data name="PhysicalInstance_Plural" xml:space="preserve">
-    <value>Data Files</value>
+    <value>Datasets</value>
     <comment>DDI Content</comment>
   </data>
   <data name="RecordRelationship_Plural" xml:space="preserve">
@@ -362,7 +362,7 @@
     <comment>DDI Content</comment>
   </data>
   <data name="Instrument_Plural" xml:space="preserve">
-    <value>Instruments</value>
+    <value>Questionnaires</value>
     <comment>DDI Content</comment>
   </data>
   <data name="CodeList_Plural" xml:space="preserve">
@@ -442,7 +442,7 @@
     <comment>DDI Content</comment>
   </data>
   <data name="OrganizationScheme_Plural" xml:space="preserve">
-    <value>Organisation Types s</value>
+    <value>Organisation Types</value>
     <comment>DDI Content</comment>
   </data>
   <data name="ConceptualComponent_Plural" xml:space="preserve">
@@ -530,19 +530,19 @@
     <comment>DDI Content</comment>
   </data>
   <data name="InstrumentGroup_Singular" xml:space="preserve">
-    <value>Instrument Group</value>
+    <value>Questionnaire Group</value>
     <comment>DDI Content</comment>
   </data>
   <data name="InstrumentGroup_Plural" xml:space="preserve">
-    <value>Instrument Groups</value>
+    <value>Questionnaire Groups</value>
     <comment>DDI Content</comment>
   </data>
   <data name="InstrumentScheme_Singular" xml:space="preserve">
-    <value>Instrument Set</value>
+    <value>Questionnaire Set</value>
     <comment>DDI Content</comment>
   </data>
   <data name="InstrumentScheme_Plural" xml:space="preserve">
-    <value>Instrument Sets</value>
+    <value>Questionnaire Sets</value>
     <comment>DDI Content</comment>
   </data>
   <data name="NCube_Singular" xml:space="preserve">
@@ -759,6 +759,10 @@
   </data>
   <data name="Group_Plural" xml:space="preserve">
     <value>Studies</value>
+    <comment>DDI Content</comment>
+  </data>
+  <data name="Study Description" xml:space="preserve">
+    <value>Sweep Description</value>
     <comment>DDI Content</comment>
   </data>
 </root>
