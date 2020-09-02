@@ -606,4 +606,17 @@
     <data name="RecordLayoutScheme_Singular" xml:space="preserve">
     <value>RecordLayout Set</value>
   </data>
+    <data name="Data" xml:space="preserve">
+    <value>Data</value>
+  </data>        
+        
+  <data name="Enter a search query above to get started." xml:space="preserve">
+    <value> </value>
+  </data>
+    
+  <data name="Select an item on the left." xml:space="preserve">
+    <value> </value>
+  </data>
+    
+    
 </root>
