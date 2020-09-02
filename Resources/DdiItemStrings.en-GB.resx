@@ -370,7 +370,7 @@
     <value>Question Group</value>
   </data>
     <data name="ManagedMissingValuesRepresentation_Singular" xml:space="preserve">
-    <value>Reusable Missing Value</value>
+    <value>Reusable Missing Value</value>a
   </data>
     <data name="RecordLayout_Singular" xml:space="preserve">
     <value>RecordLayout</value>
