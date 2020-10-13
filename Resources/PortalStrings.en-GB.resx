@@ -36,7 +36,7 @@
       Classes that don't support this are serialized and stored with the
       mimetype set.
 
-      The mimetype is used for serialized objects, and tells the
+      The mimetype is used for serialized objects, and ƒLifetells the
       ResXResourceReader how to depersist the object. This is currently not
       extensible. For a given mimetype the value must be set accordingly:
 
@@ -135,7 +135,10 @@
     <data name="GenerationInstruction_Plural" xml:space="preserve">
     <value>Generation Instructions</value>
   </data>
-    <data name="Study Description" xml:space="preserve">
+    <data name="Series Description" xml:space="preserve">
+    <value>Study Description</value>
+  </data>
+  <data name="Study Description" xml:space="preserve">
     <value>Sweep Description</value>
   </data>
     <data name="ProcessingEventScheme_Singular" xml:space="preserve">
@@ -606,14 +609,42 @@
     <data name="RecordLayoutScheme_Singular" xml:space="preserve">
     <value>RecordLayout Set</value>
   </data>
-    <data name="Data" xml:space="preserve">
+  <data name="Data" xml:space="preserve">
     <value>Data</value>
   </data>        
-        
+  <data name="Organization" xml:space="preserve">
+    <value>Organisation</value>
+  </data>        
+  <data name="Creator" xml:space="preserve">
+    <value>Principal InvestigatorI</value>
+  </data>    
+  <data name="Universe" xml:space="preserve">
+    <value>Population</value>
+  </data>        
+  <data name="LifeStage" xml:space="preserve">
+    <value>Life Stage</value>
+  </data>        
+  <data name="LifeStageDescription" xml:space="preserve">
+    <value>Life Stage Description</value>
+  </data>        
+  <data name="Basket" xml:space="preserve">
+    <value>List</value>
+  </data>        
+  <data name="Baskets" xml:space="preserve">
+    <value>Lists</value>
+  </data>        
+  <data name="Rename Basket" xml:space="preserve">
+    <value>Rename List</value>
+  </data>        
+  <data name="Create a Basket" xml:space="preserve">
+    <value>Create a List</value>
+  </data>              
+  <data name="This is your active basket." xml:space="preserve">
+    <value>This is your active list</value>
+  </data>              
   <data name="Enter a search query above to get started." xml:space="preserve">
     <value> </value>
-  </data>
-    
+  </data>    
   <data name="Select an item on the left." xml:space="preserve">
     <value> </value>
   </data>
