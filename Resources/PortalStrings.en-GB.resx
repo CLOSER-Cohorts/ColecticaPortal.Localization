@@ -570,6 +570,9 @@
     <data name="CustomWhileActivity_Plural" xml:space="preserve">
     <value>Whiles</value>
   </data>
+    <data name="Collection Organization" xml:space="preserve">
+    <value>Collection Organisation</value>
+  </data>
     <data name="PhysicalDataProduct_Singular" xml:space="preserve">
     <value>Physical Data Product</value>
   </data>
@@ -621,10 +624,10 @@
   <data name="Universe" xml:space="preserve">
     <value>Population</value>
   </data>        
-  <data name="LifeStage" xml:space="preserve">
+  <data name=" LifeStage " xml:space="preserve">
     <value>Life Stage</value>
   </data>        
-  <data name="LifeStageDescription" xml:space="preserve">
+  <data name=" LifeStageDescription " xml:space="preserve">
     <value>Life Stage Description</value>
   </data>        
   <data name="Basket" xml:space="preserve">
